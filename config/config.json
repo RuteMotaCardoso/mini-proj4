@@ -1,0 +1,9 @@
+{
+    "MySQL": {
+        "username": "root",
+        "password": "",
+        "database": "localConference",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
